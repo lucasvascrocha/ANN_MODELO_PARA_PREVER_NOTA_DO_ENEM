@@ -8,4 +8,4 @@ O ENEM é a maior prova unificada do país que através de sua avaliação permi
 
 # Sobre o desenvolvimento
 
-Foram utilizados arquivos disponibilizados pela Codenation. O código foi desenvolvido em python e apresentado em jupyter notebook.
+Foram utilizados arquivos disponibilizados pela Codenation. O código foi desenvolvido em python e apresentado em jupyter notebook!
