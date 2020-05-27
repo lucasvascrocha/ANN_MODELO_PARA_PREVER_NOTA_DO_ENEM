@@ -1,4 +1,4 @@
-# ANN_MODELO_PARA_PREVER_NOTA_DO_ENEM
+# ANN MODELO PARA PREVER NOTA DO ENEM
 Aplicaço de modelo de Artificial neura nets para previsao de dados
 # CONTEXTO 
 ## Modelo de machine learning ANN que consegue prever a nota do enem de um aluno de acordo com suas notas em outras matérias
