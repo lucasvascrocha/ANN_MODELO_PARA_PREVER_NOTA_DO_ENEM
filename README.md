@@ -11,3 +11,20 @@ Utilizando dados de teste para esta situação o modelo teve uma alta acertivida
 # Sobre o desenvolvimento
 
 Foram utilizados arquivos disponibilizados pela Codenation. O código foi desenvolvido em python e apresentado em jupyter notebook.
+
+# Perguntas a serem respondidas
+
+1. Quais características dos alunos são bons indicadores de previso para sua nota de matemática?
+2. É possível prever a nota de matemática de um aluno com base em suas características ou notas?
+3. Quais as informaçes mais relevantes para se fazer a previsao?
+
+# Requisitos
+
+- Python 3.5
+- Pandas
+- Numpy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Scipy
+- tensorflow
