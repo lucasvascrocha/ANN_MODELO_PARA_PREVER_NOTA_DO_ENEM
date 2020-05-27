@@ -15,8 +15,13 @@ Foram utilizados arquivos disponibilizados pela Codenation. O código foi desenv
 # Perguntas a serem respondidas
 
 1. Quais características dos alunos são bons indicadores de previso para sua nota de matemática?
+
+-Notas do aluno nas provas de ciências naturais, ciências humanas, línguas e redação
+
 2. É possível prever a nota de matemática de um aluno com base em suas características ou notas?
-3. Quais as informaçes mais relevantes para se fazer a previsao?
+
+-Sim, apenas com as notas em outras matérias, as características pessoais não foram consideradas boas preditoras
+
 
 # Requisitos
 
